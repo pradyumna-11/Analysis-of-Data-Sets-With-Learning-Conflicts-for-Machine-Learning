@@ -242,5 +242,3 @@ This project is intended for **academic and educational use**.
 ## 🙌 Acknowledgment
 
 This project is inspired by and extends the research work on **Learning Conflict Analysis in Supervised Machine Learning Datasets**, transforming theoretical concepts into a practical, user-driven platform.
-
-Just tell me 😊
