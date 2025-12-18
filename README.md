@@ -131,7 +131,7 @@ learning_conflict_system/
 ### ✅ 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/learning-conflict-system.git
+git clone https://github.com/pradyumna-11/Analysis-of-Data-Sets-With-Learning-Conflicts-for-Machine-Learning.git
 cd learning-conflict-system/learning_conflict_platform
 ```
 
